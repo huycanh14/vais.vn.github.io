@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7880"],{"76e0":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n    Chính phủ & doanh nghiệp\n")])},c=[],l=t("2877"),a={},h=Object(l["a"])(a,u,c,!1,null,null,null);e["default"]=h.exports}}]);
+//# sourceMappingURL=chunk-2d0d7880.360f3a80.js.map

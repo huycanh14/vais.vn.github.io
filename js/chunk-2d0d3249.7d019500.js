@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d3249"],{"5c05":function(n,t,e){"use strict";e.r(t);var u=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v("\n    Báo chí và tuyên truyền\n")])},c=[],l=e("2877"),r={},o=Object(l["a"])(r,u,c,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0d3249.7d019500.js.map
